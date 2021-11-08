@@ -1,6 +1,6 @@
 ## Olá, me chamo Giovanni Mioto
-Técnico em Administração do Instituto Federal do Paraná
-🇧🇷 Curitiba, Brasil
+📚 Administration at [Federal Institute of Paraná](https://colombo.ifpr.edu.br/) <br>
+🇧🇷 Curitiba, Brazil <br>
 <div align="center">
   <a href="https://github.com/giomioto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giomioto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
