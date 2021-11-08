@@ -11,7 +11,6 @@
   <img align="center" alt="giomioto-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="giomioto-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="giomioto-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="giomioto-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/89156343?s=400&u=99a3caf90f1dad5d6c98afc69ae7e38ebd23c140&v=4">
 </div>
   
   ##
