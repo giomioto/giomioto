@@ -1,5 +1,5 @@
-## Olá, me chamo Giovanni Mioto\
-Técnico em Administração do Instituto Federal do Paraná\
+## Olá, me chamo Giovanni Mioto
+Técnico em Administração do Instituto Federal do Paraná
 🇧🇷 Curitiba, Brasil
 <div align="center">
   <a href="https://github.com/giomioto">
