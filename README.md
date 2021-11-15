@@ -1,4 +1,4 @@
-## Olá, me chamo Giovanni Mioto
+## Hello There, I'm Giovanni Mioto
 📚 Administration at [Federal Institute of Paraná](https://colombo.ifpr.edu.br/) <br>
 🇧🇷 Curitiba, Brazil <br>
 <div align="center">
