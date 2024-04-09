@@ -1,4 +1,5 @@
 ## Hi, I'm Giovanni Mioto
+📚 Information Systems at [Technological Federal University of Paraná](https://www.utfpr.edu.br/) <br>
 📚 Administration at [Federal Institute of Paraná](https://colombo.ifpr.edu.br/) <br>
 🇧🇷 Curitiba, Brazil <br>
 <div align="center">
