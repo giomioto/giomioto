@@ -5,11 +5,16 @@
 <div align="center">
   <a href="https://github.com/giomioto">
 </div>
-  <div>
-    <a href="https://giovannimioto.netlify.app/">
+
+##
+
+<div>
+  <a href="https://giovannimioto.netlify.app/">
       My Portfolio
-    </a>
-  </div>
+  </a>
+</div>
+
+##    
 Knowledges
 <div style="display: inline_block"><br>
   <img align="center" alt="giomioto-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
